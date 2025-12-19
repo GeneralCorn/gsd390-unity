@@ -9,6 +9,9 @@ TagManager:
   - Events
   - Timer
   - Walls
+  - Pause
+  - Continue
+  - Restart
   layers:
   - Default
   - TransparentFX
